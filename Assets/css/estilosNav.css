@@ -1,0 +1,44 @@
+:root{
+	--grayHover: #dddddd;
+}
+.noMarginNoPadding{
+	margin: 0;
+	padding: 0;
+}
+#bodyIndex{
+	margin-top: 2vh;
+}
+.verticalNav{
+	padding: 0;
+	margin: 0;
+	width: 17.35;
+	height: 100%;
+	margin-top: 9.4vh;
+}
+.verticalNav2{
+	padding: 0;
+	margin: 0;
+	width: 9.1;
+	height: 100%;
+	margin-top: 9.4vh;
+}
+.displayBlock{
+	display: block;
+}
+.displayNone{
+	display: none;
+}
+.itemNavVertical{
+	padding-left: 10%;
+}
+.itemNavVertical2{
+	padding-left: 100%;
+}
+.itemNavVertical:hover{
+	background-color: var(--grayHover);
+}
+.datatable{
+	margin:30;
+	padding:30;
+	font-family: century gothic;
+}
